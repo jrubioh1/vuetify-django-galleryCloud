@@ -1,0 +1,1 @@
+En produccion hay que cambiar la secret key del settings y quitar la url de las static del urls. Tambien hay que crear en la raiz del proyecto las carpetas ./media/images
